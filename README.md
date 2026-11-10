@@ -1,5 +1,5 @@
-# SaneleMnisi
-# Hi, I'm Sanele Mnisi 👋
+# SaneleMthembu
+# Hi, I'm Sanele Mthembu 👋
 
 ### Aspiring Data Analyst 
 
