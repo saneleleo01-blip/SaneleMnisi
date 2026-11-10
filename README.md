@@ -40,4 +40,11 @@ I'm working towards building projects that demonstrate my skills. This section w
 
 My goal is to become a Data Analyst by developing practical skills, learning from real datasets, and sharing my progress through projects on GitHub.
 
+## 🤝 Connect With Me
+
+I'd love to connect, learn and share ideas with other people in the technology and data community.
+
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/sanele-mthembu-2875972a2/)
+- 📧 **Email:** saneleleo01@gmail.com
+
 Thanks for visiting my profile!
